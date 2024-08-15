@@ -1,0 +1,5 @@
+﻿  AtmSystem.cpp
+C:\Users\Google Tech\source\repos\AtmSystem\AtmSystem\AtmSystem.cpp(33,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Google Tech\source\repos\AtmSystem\AtmSystem\AtmSystem.cpp(161,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\Google Tech\source\repos\AtmSystem\AtmSystem\AtmSystem.cpp(247,1): warning C4715: 'ChooseQuickWithdraw': not all control paths return a value
+  AtmSystem.vcxproj -> C:\Users\Google Tech\source\repos\AtmSystem\x64\Debug\AtmSystem.exe
